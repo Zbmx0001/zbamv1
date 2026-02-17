@@ -1,0 +1,21 @@
+--key: https://direct-link.net/1354063/9I6nCrV12vRx
+script_key = "", --put key in "here"
+
+--[[
+    Updated 17th 2026:
+
+    Targetted Games:
+        *https://www.roblox.com/games/6269446951/Smooth-Slicing
+        *https://www.roblox.com/games/134951244280326/Climb-For-Brainrots
+
+    * Game is no long just a smooth slicing script
+        -MAKE SURE TO ACTIVATE SCRIPT BEFORE LOADING IN GAME FOR SMOOTH SLICING!!!!!!!!!!!
+        - Deleted Kill features except kill aura as they arent working
+        - New UI (rayfield)
+    * Climb for Brainrot
+        - Level dupe (brainrots can get equal levels)
+        - Grab brainrot
+        - More!
+]]--
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/13c6a4617f3285c96dee997e5a738ac1.lua"))()
