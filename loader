@@ -1,5 +1,5 @@
 --key: https://ads.luarmor.net/get_key?for=keysystem-yctbTLwRfhGb
-script_key = "", --put key in "here"
+script_key = "" --put key between quotations
 
 --[[
     Updated 17th 2026:
